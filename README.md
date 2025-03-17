@@ -10,17 +10,11 @@ Um aplicativo simples para realizar sorteios de amigo secreto de forma interativ
 - Garantir que ninguém tire a si mesmo.
 - Evitar repetições no sorteio.
 
-## 📷 Capturas de Tela
-
 ### Tela Inicial
 Adicione os participantes digitando os nomes e clicando no botão "Adicionar".
 
-![Tela Inicial](assets/tela-inicial.png)
-
 ### Sorteio
 Clique no botão "Sortear amigo" para exibir o amigo secreto de forma sequencial.
-
-![Sorteio](assets/tela-sorteio.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
