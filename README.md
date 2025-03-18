@@ -14,7 +14,7 @@ Um aplicativo simples para realizar sorteios de amigo secreto de forma interativ
 
 ### Tela Inicial
 
-![Tela Inicial do Amigo Secreto](Screenshot_Tela-Inicial.jpg)
+![Tela Inicial do Amigo Secreto](screenshot_tela_inicial.jpg)
 
 Adicione os participantes digitando os nomes e clicando no botão "Adicionar".
 
