@@ -29,16 +29,20 @@ Clique no botão "Sortear amigo" para exibir o amigo secreto de forma sequencial
 
 ## 📦 Como Executar o Projeto
 
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/amigo-secreto.git
-   ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd amigo-secreto
-   ```
-3. Abra o arquivo `index.html` no navegador.
+1️⃣ **Clone o repositório:**  
+```sh
+git clone https://github.com/Gabbitous/Amigo-Secreto.git
+```
+2️⃣ **Acesse a pasta do projeto:**
+```sh
+cd Amigo-Secreto
+```
+3️⃣ **Abra o arquivo index.html no navegador.**
 
+   **Se estiver no Windows, abra o navegador automaticamente com:**  
+```sh
+start index.html
+```
 # 📜 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
