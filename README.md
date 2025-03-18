@@ -13,6 +13,7 @@ Um aplicativo simples para realizar sorteios de amigo secreto de forma interativ
 - Evitar repetições no sorteio.
 
 ### Tela Inicial
+![Tela Inicial](Screenshot_20250317_225753_Samsung Internet.jpg)
 Adicione os participantes digitando os nomes e clicando no botão "Adicionar".
 
 ### Sorteio
