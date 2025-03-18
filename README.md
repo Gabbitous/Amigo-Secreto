@@ -1,3 +1,5 @@
+Este projeto faz parte da minha participação no desafio Challenge da Oracle One com a Alura.
+
 # Amigo Secreto 🎁
 
 Um aplicativo simples para realizar sorteios de amigo secreto de forma interativa e divertida.
