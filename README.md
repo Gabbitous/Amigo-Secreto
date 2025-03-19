@@ -1,8 +1,11 @@
 ## Este projeto faz parte da minha participação no desafio Challenge da Oracle One com a Alura.
 
+
 # Amigo Secreto 🎁
 
+
 Um aplicativo simples para realizar sorteios de amigo secreto de forma interativa e divertida.
+
 
 ## 🚀 Funcionalidades
 
@@ -12,20 +15,24 @@ Um aplicativo simples para realizar sorteios de amigo secreto de forma interativ
 - Garantir que ninguém tire a si mesmo.
 - Evitar repetições no sorteio.
 
+
 ### Tela Inicial
 
 ![Tela Inicial do Amigo Secreto](screenshot_tela_inicial.jpg)
 
 Adicione os participantes digitando os nomes e clicando no botão "Adicionar".
 
+
 ### Sorteio
 Clique no botão "Sortear amigo" para exibir o amigo secreto de forma sequencial.
+
 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (DOM Manipulation)
+
 
 ## 📦 Como Executar o Projeto
 
@@ -43,6 +50,7 @@ cd Amigo-Secreto
 ```sh
 start index.html
 ```
+
 # 📜 Licença
 
 Este projeto é Open Source.
