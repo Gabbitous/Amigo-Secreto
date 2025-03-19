@@ -45,7 +45,7 @@ start index.html
 ```
 # 📜 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é Open Source.
 
 ---
 
