@@ -1,4 +1,4 @@
-# Este projeto faz parte da minha participação no desafio Challenge da Oracle One com a Alura.#
+## Este projeto faz parte da minha participação no desafio Challenge da Oracle One com a Alura.
 
 # Amigo Secreto 🎁
 
